@@ -1,0 +1,40 @@
+notes and journal for project
+
+Sept 10,2013
+starting project template format
+this project is to analyse RT_PCR data using Anova, in R.
+The input is an xls file that has the conditions and the fold change compared tothe control.  THere is a lot of data, both ligands and various inhbitiors, and it is hard to identify patterns by eye.
+I will use anova to find significant changes.
+
+Generic Steps:
+ Mod from Faraway 2002
+1. Record all steps in journal
+2. Set up Git locally and on GitHub. Record details of Github locally)
+3.    data collection (export to 'diagnostics' folder)
+	a. how are data collected (random sampling?)
+	b. is there non-response?
+	c. are there missing values?
+	d. how are data coded? 
+	e. how are qualitative variables represented? 
+	f. Do I need to convert them to factors?
+        e. What are units of measurement?
+	f. Can i get rid of extraneous digits to save space?
+4.     Initial data Analysis (export to 'diagnostics' folder)
+ 	a. Print out summaries of data
+		look for coding errors (NA converted to 0s)
+
+	b. Make box plots and examine variance
+	c. Make scatter plots for correlation analysis 
+3. 
+	
+ 	check for missing values 
+	use boxplot or summaries (See Farraway PRA pdf)
+4. recode for all factors
+5. perform anova
+6. output to single file for different primers
+done
+
+Sept 23, 2013
+have new dataset from Becky, is HMEC and MDA231 cells with all PCR results for the project in .xls table.
+this is put in data folder
+ 
