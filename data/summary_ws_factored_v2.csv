@@ -1,0 +1,155 @@
+"","Var1","Var2","Freq"
+"1","","  Sample.ID","1      : 128  "
+"2","","  Sample.ID","4      : 116  "
+"3","","  Sample.ID","2      : 110  "
+"4","","  Sample.ID","3      : 110  "
+"5","","  Sample.ID","5      : 104  "
+"6","","  Sample.ID","6      :  79  "
+"7","","  Sample.ID","(Other):1206  "
+"8","","Cell.Line","HMEC :1421  "
+"9","","Cell.Line","MB231: 432  "
+"10","","Cell.Line",NA
+"11","","Cell.Line",NA
+"12","","Cell.Line",NA
+"13","","Cell.Line",NA
+"14","","Cell.Line",NA
+"15","","     Density","High     :1151  "
+"16","","     Density","Low      : 684  "
+"17","","     Density","Super Low:  18  "
+"18","","     Density",NA
+"19","","     Density",NA
+"20","","     Density",NA
+"21","","     Density",NA
+"22","","  experiment.date","2013-02-27:234  "
+"23","","  experiment.date","2013-03-04:225  "
+"24","","  experiment.date","2013-06-01:179  "
+"25","","  experiment.date","2013-05-28:144  "
+"26","","  experiment.date","2013-06-21:138  "
+"27","","  experiment.date","2013-02-20:132  "
+"28","","  experiment.date","(Other)   :801  "
+"29","","  primerset","IL8    :702  "
+"30","","  primerset","p57    :234  "
+"31","","  primerset","p21    :216  "
+"32","","  primerset","DUSP6  :162  "
+"33","","  primerset","cdk1   :117  "
+"34","","  primerset","CCNA2  : 84  "
+"35","","  primerset","(Other):338  "
+"36","","Ligand.Tx.Time..hr.","0.5:  75  "
+"37","","Ligand.Tx.Time..hr.","1  : 646  "
+"38","","Ligand.Tx.Time..hr.","2  :  23  "
+"39","","Ligand.Tx.Time..hr.","4  :1093  "
+"40","","Ligand.Tx.Time..hr.","6  :   8  "
+"41","","Ligand.Tx.Time..hr.","8  :   8  "
+"42","","Ligand.Tx.Time..hr.",NA
+"43","","  EGF","0   :654  "
+"44","","  EGF","0.01: 90  "
+"45","","  EGF","0.1 :189  "
+"46","","  EGF","1   :332  "
+"47","","  EGF","10  :185  "
+"48","","  EGF","100 :385  "
+"49","","  EGF","NA's: 18  "
+"50",""," TGFB","0  :1190  "
+"51",""," TGFB","0.1: 291  "
+"52",""," TGFB","1  :  64  "
+"53",""," TGFB","10 : 308  "
+"54",""," TGFB",NA
+"55",""," TGFB",NA
+"56",""," TGFB",NA
+"57","","Serum","0 :1202  "
+"58","","Serum","1 : 583  "
+"59","","Serum","5 :  24  "
+"60","","Serum","10:  44  "
+"61","","Serum",NA
+"62","","Serum",NA
+"63","","Serum",NA
+"64","","ijnk","0:1837  "
+"65","","ijnk","1:  16  "
+"66","","ijnk",NA
+"67","","ijnk",NA
+"68","","ijnk",NA
+"69","","ijnk",NA
+"70","","ijnk",NA
+"71","","imek","0:1686  "
+"72","","imek","1: 167  "
+"73","","imek",NA
+"74","","imek",NA
+"75","","imek",NA
+"76","","imek",NA
+"77","","imek",NA
+"78","","immp","0:1795  "
+"79","","immp","1:  58  "
+"80","","immp",NA
+"81","","immp",NA
+"82","","immp",NA
+"83","","immp",NA
+"84","","immp",NA
+"85","","ip3ik","0:1661  "
+"86","","ip3ik","1: 192  "
+"87","","ip3ik",NA
+"88","","ip3ik",NA
+"89","","ip3ik",NA
+"90","","ip3ik",NA
+"91","","ip3ik",NA
+"92","","ismad","0:1746  "
+"93","","ismad","1: 107  "
+"94","","ismad",NA
+"95","","ismad",NA
+"96","","ismad",NA
+"97","","ismad",NA
+"98","","ismad",NA
+"99","","isrc","0:1792  "
+"100","","isrc","1:  61  "
+"101","","isrc",NA
+"102","","isrc",NA
+"103","","isrc",NA
+"104","","isrc",NA
+"105","","isrc",NA
+"106","","istat","0:1659  "
+"107","","istat","1: 194  "
+"108","","istat",NA
+"109","","istat",NA
+"110","","istat",NA
+"111","","istat",NA
+"112","","istat",NA
+"113","","NFkB","0:1827  "
+"114","","NFkB","1:  26  "
+"115","","NFkB",NA
+"116","","NFkB",NA
+"117","","NFkB",NA
+"118","","NFkB",NA
+"119","","NFkB",NA
+"120","","p38","0:1853  "
+"121","","p38",NA
+"122","","p38",NA
+"123","","p38",NA
+"124","","p38",NA
+"125","","p38",NA
+"126","","p38",NA
+"127","","mAb.225","0:1811  "
+"128","","mAb.225","1:  42  "
+"129","","mAb.225",NA
+"130","","mAb.225",NA
+"131","","mAb.225",NA
+"132","","mAb.225",NA
+"133","","mAb.225",NA
+"134","","    Format","10 cm  :  15  "
+"135","","    Format","6 well : 711  "
+"136","","    Format","96 well:1127  "
+"137","","    Format",NA
+"138","","    Format",NA
+"139","","    Format",NA
+"140","","    Format",NA
+"141",""," Fold.Change","Min.   :  0.00696  "
+"142",""," Fold.Change","1st Qu.:  0.70339  "
+"143",""," Fold.Change","Median :  1.13683  "
+"144",""," Fold.Change","Mean   :  3.07675  "
+"145",""," Fold.Change","3rd Qu.:  2.34915  "
+"146",""," Fold.Change","Max.   :160.60060  "
+"147",""," Fold.Change","NA's   :12  "
+"148","","                                                                                   Note","Did not amplify                                                                      :  11  "
+"149","","                                                                                   Note","Ran out of primer in this experiment, so only 1 replicate for each treatment with p57:   1  "
+"150","","                                                                                   Note","Standard deviation five times higher than signal                                     :   1  "
+"151","","                                                                                   Note","NA's                                                                                 :1840  "
+"152","","                                                                                   Note",NA
+"153","","                                                                                   Note",NA
+"154","","                                                                                   Note",NA
